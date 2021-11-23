@@ -1,4 +1,4 @@
-# joyeria
+# Guardian Globe
 
 ## Project setup
 ```
